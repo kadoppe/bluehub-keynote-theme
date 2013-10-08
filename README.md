@@ -1,4 +1,4 @@
-# BludeHub Keynote theme
+# BlueHub Keynote theme
 
 My original Keynote theme inspired by GitHub presentation.
 
